@@ -1,0 +1,8 @@
+{
+  "name": "IONIC-GALLERY",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "684d8117"
+}
