@@ -5,6 +5,8 @@ import { Filesystem, Directory } from '@capacitor/filesystem';
 import { Storage } from '@capacitor/storage';
 import { Platform } from '@ionic/angular';
 
+//https://ionicframework.com/docs/core-concepts/webview#file-protocol
+
 import { Capacitor } from '@capacitor/core';
 
 
