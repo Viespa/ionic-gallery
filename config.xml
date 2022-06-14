@@ -1,0 +1,5 @@
+
+<config-file parent="NSCameraUsageDescription" platform="ios" target="*-Info.plist">
+ <string>You can take photos</string>
+ <platform name='ios'>
+</config-file>
